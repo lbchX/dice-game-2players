@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dice-game-2players/static/css/main.bffdd822.css",
-    "main.js": "/dice-game-2players/static/js/main.04ce7930.js",
+    "main.js": "/dice-game-2players/static/js/main.1c6c8de0.js",
     "static/media/dice_6.png": "/dice-game-2players/static/media/dice_6.89fe5f53c0b6ec072ba7.png",
     "static/media/dice_5.png": "/dice-game-2players/static/media/dice_5.c446764499a4a30dfe8b.png",
     "static/media/dice_3.png": "/dice-game-2players/static/media/dice_3.d5810f55940b1f991d70.png",
@@ -10,10 +10,10 @@
     "static/media/dice_1.png": "/dice-game-2players/static/media/dice_1.4214d536ff3424bf77f7.png",
     "index.html": "/dice-game-2players/index.html",
     "main.bffdd822.css.map": "/dice-game-2players/static/css/main.bffdd822.css.map",
-    "main.04ce7930.js.map": "/dice-game-2players/static/js/main.04ce7930.js.map"
+    "main.1c6c8de0.js.map": "/dice-game-2players/static/js/main.1c6c8de0.js.map"
   },
   "entrypoints": [
     "static/css/main.bffdd822.css",
-    "static/js/main.04ce7930.js"
+    "static/js/main.1c6c8de0.js"
   ]
 }
